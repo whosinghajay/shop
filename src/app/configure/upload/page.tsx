@@ -95,7 +95,7 @@ const Page = () => {
                   </p>
                 ) : (
                   <p>
-                    <span className="font-semibold">Click to upload</span> or
+                    <span className="font-semibold">Click to Upload</span> or
                     drag and drop
                   </p>
                 )}
